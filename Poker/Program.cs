@@ -11,6 +11,8 @@
             string result = SortCards(john, uncle);
             Console.WriteLine("Отсортированные карты Джона: ");
             Console.WriteLine(result);
+
+            Console.WriteLine("Типа код паменял");
         }
 
         static string SortCards(string john, string uncle)
