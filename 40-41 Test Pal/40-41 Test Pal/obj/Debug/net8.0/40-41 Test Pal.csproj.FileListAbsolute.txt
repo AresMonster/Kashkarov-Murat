@@ -1,0 +1,14 @@
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\bin\Debug\net8.0\40-41 Test Pal.exe
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\bin\Debug\net8.0\40-41 Test Pal.deps.json
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\bin\Debug\net8.0\40-41 Test Pal.runtimeconfig.json
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\bin\Debug\net8.0\40-41 Test Pal.dll
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\bin\Debug\net8.0\40-41 Test Pal.pdb
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\obj\Debug\net8.0\40-41 Test Pal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\obj\Debug\net8.0\40-41 Test Pal.AssemblyInfoInputs.cache
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\obj\Debug\net8.0\40-41 Test Pal.AssemblyInfo.cs
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\obj\Debug\net8.0\40-41 Test Pal.csproj.CoreCompileInputs.cache
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\obj\Debug\net8.0\40-41 Test Pal.dll
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\obj\Debug\net8.0\refint\40-41 Test Pal.dll
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\obj\Debug\net8.0\40-41 Test Pal.pdb
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\obj\Debug\net8.0\40-41 Test Pal.genruntimeconfig.cache
+C:\Users\aresf\source\repos\40-41 Test Pal\40-41 Test Pal\obj\Debug\net8.0\ref\40-41 Test Pal.dll
