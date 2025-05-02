@@ -1,0 +1,14 @@
+C:\Users\aresf\source\repos\20-21\20-21\bin\Debug\net8.0\20-21.exe
+C:\Users\aresf\source\repos\20-21\20-21\bin\Debug\net8.0\20-21.deps.json
+C:\Users\aresf\source\repos\20-21\20-21\bin\Debug\net8.0\20-21.runtimeconfig.json
+C:\Users\aresf\source\repos\20-21\20-21\bin\Debug\net8.0\20-21.dll
+C:\Users\aresf\source\repos\20-21\20-21\bin\Debug\net8.0\20-21.pdb
+C:\Users\aresf\source\repos\20-21\20-21\obj\Debug\net8.0\20-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aresf\source\repos\20-21\20-21\obj\Debug\net8.0\20-21.AssemblyInfoInputs.cache
+C:\Users\aresf\source\repos\20-21\20-21\obj\Debug\net8.0\20-21.AssemblyInfo.cs
+C:\Users\aresf\source\repos\20-21\20-21\obj\Debug\net8.0\20-21.csproj.CoreCompileInputs.cache
+C:\Users\aresf\source\repos\20-21\20-21\obj\Debug\net8.0\20-21.dll
+C:\Users\aresf\source\repos\20-21\20-21\obj\Debug\net8.0\refint\20-21.dll
+C:\Users\aresf\source\repos\20-21\20-21\obj\Debug\net8.0\20-21.pdb
+C:\Users\aresf\source\repos\20-21\20-21\obj\Debug\net8.0\20-21.genruntimeconfig.cache
+C:\Users\aresf\source\repos\20-21\20-21\obj\Debug\net8.0\ref\20-21.dll
