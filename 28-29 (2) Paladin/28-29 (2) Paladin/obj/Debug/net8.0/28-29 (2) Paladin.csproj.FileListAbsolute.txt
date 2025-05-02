@@ -1,0 +1,14 @@
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\bin\Debug\net8.0\28-29 (2) Paladin.exe
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\bin\Debug\net8.0\28-29 (2) Paladin.deps.json
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\bin\Debug\net8.0\28-29 (2) Paladin.runtimeconfig.json
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\bin\Debug\net8.0\28-29 (2) Paladin.dll
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\bin\Debug\net8.0\28-29 (2) Paladin.pdb
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\obj\Debug\net8.0\28-29 (2) Paladin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\obj\Debug\net8.0\28-29 (2) Paladin.AssemblyInfoInputs.cache
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\obj\Debug\net8.0\28-29 (2) Paladin.AssemblyInfo.cs
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\obj\Debug\net8.0\28-29 (2) Paladin.csproj.CoreCompileInputs.cache
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\obj\Debug\net8.0\28-29 (2) Paladin.dll
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\obj\Debug\net8.0\refint\28-29 (2) Paladin.dll
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\obj\Debug\net8.0\28-29 (2) Paladin.pdb
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\obj\Debug\net8.0\28-29 (2) Paladin.genruntimeconfig.cache
+C:\Users\aresf\source\repos\28-29 (2) Paladin\28-29 (2) Paladin\obj\Debug\net8.0\ref\28-29 (2) Paladin.dll
