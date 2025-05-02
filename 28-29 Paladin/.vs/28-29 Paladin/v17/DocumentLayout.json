@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aresf\\source\\repos\\28-29 Paladin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCEC752-957B-43B2-AB42-8DC8C363DBEC}|28-29 Paladin\\28-29 Paladin.csproj|c:\\users\\aresf\\source\\repos\\28-29 paladin\\28-29 paladin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCEC752-957B-43B2-AB42-8DC8C363DBEC}|28-29 Paladin\\28-29 Paladin.csproj|solutionrelative:28-29 paladin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aresf\\source\\repos\\28-29 Paladin\\28-29 Paladin\\Program.cs",
+              "RelativeDocumentMoniker": "28-29 Paladin\\Program.cs",
+              "ToolTip": "C:\\Users\\aresf\\source\\repos\\28-29 Paladin\\28-29 Paladin\\Program.cs",
+              "RelativeToolTip": "28-29 Paladin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:39:22.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
