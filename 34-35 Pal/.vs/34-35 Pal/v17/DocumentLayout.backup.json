@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aresf\\source\\repos\\34-35 Pal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C242A41C-4904-495B-B97D-414F078115BE}|34-35 Pal\\34-35 Pal.csproj|c:\\users\\aresf\\source\\repos\\34-35 pal\\34-35 pal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C242A41C-4904-495B-B97D-414F078115BE}|34-35 Pal\\34-35 Pal.csproj|solutionrelative:34-35 pal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aresf\\source\\repos\\34-35 Pal\\34-35 Pal\\Program.cs",
+              "RelativeDocumentMoniker": "34-35 Pal\\Program.cs",
+              "ToolTip": "C:\\Users\\aresf\\source\\repos\\34-35 Pal\\34-35 Pal\\Program.cs",
+              "RelativeToolTip": "34-35 Pal\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:08:58.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
