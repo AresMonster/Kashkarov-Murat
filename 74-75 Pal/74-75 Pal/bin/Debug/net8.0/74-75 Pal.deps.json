@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "74-75 Pal/1.0.0": {
+        "runtime": {
+          "74-75 Pal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "74-75 Pal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
